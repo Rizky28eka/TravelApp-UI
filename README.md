@@ -1,16 +1,9 @@
-# travelapp_ui
+<center>
 
-A new Flutter project.
+## Slicing Travel Flutter App❤️✈️
 
-## Getting Started
+<img src="https://i.postimg.cc/bNcRx5vQ/Jepretan-Layar-2023-06-08-pukul-15-42-01.png" alt="Slicing Travel App" width="300">
 
-This project is a starting point for a Flutter application.
+[Instagram](https://www.instagram.com/p/CtMMa-shyl4/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</center>
